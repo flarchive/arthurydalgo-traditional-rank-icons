@@ -4,7 +4,16 @@ This repository is a permanent, read-only archive of released versions of `arthu
 
 > **Not affiliated with the Flarum Foundation or the Flarum project.**
 
-- Archived versions are stored as tags: `archive/vX.Y.Z`
+## Quick Download
+
+- **Latest Archived Version:** `1.0`
+- **Flarum Compatibility:** `^1.2`
+- **Direct Download (.zip):** [Download 1.0 (.zip)](https://github.com/flarchive/arthurydalgo-traditional-rank-icons/archive/refs/tags/archive/v1.0.zip)
+- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/arthurydalgo-traditional-rank-icons/tags)
+
+## Archive Catalog
+
+- **Catalog Entry (JSON):** [View manifest](https://github.com/flarchive/archive-index/blob/main/packages/arthurydalgo-traditional-rank-icons.json)
 - Upstream repository: https://github.com/ArthurYdalgo/traditional-rank-icons.git
 - Issues, pull requests, discussions, and wiki are disabled on this repository.
 
